@@ -23,6 +23,12 @@ try:
     print("Reversed text:")
     print(reversed_text)
 
+
+
+#input.txt
+#I am student
+
+
 except FileNotFoundError:
     print(f"File not found: {input_file_name}")
 
